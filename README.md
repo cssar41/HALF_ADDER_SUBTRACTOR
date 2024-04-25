@@ -46,8 +46,8 @@ Figure -02 HALF Subtractor
 
 5.	For different input combinations generate the timing diagram.
 
-
 # Program:
+
 
 ## Half-adder:
 ```
